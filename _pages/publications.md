@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Zhang, Daqu, Hangdao Li, Junfeng Sun, Weiwei Hu, **Wen Jin**, Shengtian Li, and Shanbao Tong. "Antidepressant-like Effect of Low-intensity Transcranial Ultrasound Stimulation." IEEE Transactions on Biomedical Engineering (2018).
