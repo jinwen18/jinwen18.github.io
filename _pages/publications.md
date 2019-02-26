@@ -5,4 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Zhang, Daqu, Hangdao Li, Junfeng Sun, Weiwei Hu, **Wen Jin**, Shengtian Li, and Shanbao Tong. "Antidepressant-like Effect of Low-intensity Transcranial Ultrasound Stimulation." IEEE Transactions on Biomedical Engineering (2018).
+**Wen Jin**, Hong Zhu, Pin Shu, Shanbao Tong, Junfeng Sun, Extracting individual neural fingerprint encoded in functional connectivity by silencing indirect effects, under review.
+
+Pin Shu, **Wen Jin**, Hong Zhu, Shanbao Tong, Junfeng Sun, Inferring vulnerable nodes and edges by assessing brain network resilience, under review.
+
+Daqu Zhang, Hangdao Li, Junfeng Sun, Weiwei Hu, **Wen Jin**, Shengtian Li, and Shanbao Tong, “Antidepressant-like effect of low-intensity transcranial ultrasound stimulation”, IEEE Transactions on Biomedical Engineering, 66(2): 411-420, 2019.
+
+Hangdao Li, Junfeng Sun, Hongyang Lu, **Wen Jin**, Peter A Lewin, Shanbao Tong, Pulsed transcranial ultrasound modulates the cortical response to the functional electrical stimulation: in vivo animal study using optical neurovascular imaging, under review.
