@@ -10,5 +10,8 @@ redirect_from:
 
 This is Wen's home on the web!
 
-I am a second-year Master student in Shanghai Jiao Tong Univeristy, China.
-My current research interests are in the field of neuroimaging.
+I am a third-year Master student in Shanghai Jiao Tong Univeristy, China. 
+I am a visiting student in the University of Illinois at Urbana-Champaign.
+My research interest lies in how we can improve Magnetic Resonance Imaging 
+(MRI) to understand individual brain. 
+More specifically, I am insterested in image processing and image analysis.
