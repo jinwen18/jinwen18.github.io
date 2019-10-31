@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wen Jin"
 title_separator          : "-"
 name                     : &name "Wen Jin"
-description              : &description "a second-year Master student at Shanghai Jiao Tong Univerisity"
+description              : ""
 url                      : https://jinwen18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Wen Jin"
   avatar           : "wen1.jpg"
   bio              : "a second-year Master student at Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  location         : "Champaign, Illinois"
   employer         :
   googlescholar    :
   email            : "jin951221@gmail.com"
