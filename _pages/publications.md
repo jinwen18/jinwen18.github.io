@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Wen Jin**, Hong Zhu, Pin Shu, Shanbao Tong, Junfeng Sun, Extracting individual neural fingerprint encoded in functional connectivity by silencing indirect effects, under review.
+1. **Wen Jin**, Hong Zhu, Pin Shu, Shanbao Tong, Junfeng Sun, Extracting individual neural fingerprint encoded in functional connectivity by silencing indirect effects, IEEE Transactions on Biomedical Engineering, accepted.
 
 2. Pin Shu, **Wen Jin**, Hong Zhu, Shanbao Tong, Junfeng Sun, Inferring vulnerable nodes and edges by assessing brain network resilience, under review.
 
